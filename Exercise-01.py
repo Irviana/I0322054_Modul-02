@@ -1,0 +1,5 @@
+print ("Nama : Irviana Amanatul Mufaida")
+print ("NIM : I0322054")
+print ("Alamat : Jl. Mundu Selatan No. 29, Madiun")
+print ("Deskripsi tempat tinggal : Kota Madiun dikenal dengan banyak julukan diantaranya Kota Pecel, Kota Pendekar, Kota Gadis, dan Kota Karismatik")
+print ("Harapan sebagai lulusan teknik industri : berguna bagi masyarakat sekitar")
